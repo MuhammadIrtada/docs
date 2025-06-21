@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Veoi3",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#618BE5",
+    "light": "#4780B6",
+    "dark": "#325E89"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -14,70 +14,51 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Introduction",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "tokendetails"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Core Features & Utilities",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "features",
+              "howitworks"
+            ]
+          },
+          {
+            "group": "Veoi3 Token",
+            "pages": [
+              "tokenomic",
+              "roadmap"
+            ]
+          },
+          {
+            "group": "Get Started",
+            "pages": [
+              "community"
             ]
           }
         ]
       },
       {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
+        "tab": "API Reference"
       }
     ],
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Veoi3 Platform",
+          "href": "https://veoi3.com",
+          "icon": "globe"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/VEOI3-PNG-TRANSPARAN.PNG",
+    "dark": "/images/VEOI3-PNG-TRANSPARAN.PNG"
   },
   "navbar": {
     "links": [
@@ -94,9 +75,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "website": "https://veoi3.com",
+      "x": "https://twitter.com/Veoi3_Official",
+      "telegram": "https://t.me/Veoi3_Community"
     }
   }
 }
