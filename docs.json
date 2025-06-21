@@ -7,7 +7,7 @@
     "light": "#4780B6",
     "dark": "#325E89"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/VEOI3-ICON-PNG-TRANSPARAN.svg",
   "navigation": {
     "tabs": [
       {
@@ -41,16 +41,13 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "API Reference"
       }
     ],
     "global": {
       "anchors": [
         {
           "anchor": "Veoi3 Platform",
-          "href": "https://veoi3.app",
+          "href": "https://veoi3.app/",
           "icon": "globe"
         }
       ]
@@ -76,7 +73,7 @@
   "footer": {
     "socials": {
       "website": "https://veoi3.app",
-      "x": "https://twitter.com/Veoi3_Official",
+      "x": "https://x.com/veoi3official",
       "telegram": "https://t.me/Veoi3_Community"
     }
   }
